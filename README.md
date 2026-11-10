@@ -10,7 +10,7 @@ In industrial meat processing, raw meat rashers crossing the tray boundary compr
 ---
 
 ## Key Performance & Dataset Metrics
-* **Dataset Size:** ~3,500 annotated packaging tray images
+* **Dataset Size:** ~3,500 annotated packaging tray images (Raw dataset hosted on Roboflow / repository data paths)
 * **Defect Classes:** `loose-meat`, `packaging-error`, `twisted-meat`, `unsealed`, and `wrinkle`
 * **Test Accuracy:** **83.75%** overall accuracy achieved
 * **Architecture:** YOLOv8 Nano (`yolov8n.pt`) with anchor-free decoupled head
