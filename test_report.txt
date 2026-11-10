@@ -1,11 +1,9 @@
-﻿============================= test session starts =============================
-platform win32 -- Python 3.12.7, pytest-7.4.4, pluggy-1.0.0 -- C:\Users\kusha\anaconda3\python.exe
-cachedir: .pytest_cache
+============================= test session starts =============================
+platform win32 -- Python 3.12.7, pytest-7.4.4, pluggy-1.0.0
 rootdir: C:\Users\kusha\OneDrive\Desktop\Shortcuts\4th Year\MMA3001\Assignment
 plugins: anyio-4.15.1
-collecting ... collected 2 items
+collected 2 items
 
-test_pipeline.py::test_data_yaml_exists PASSED                           [ 50%]
-test_pipeline.py::test_weights_exist PASSED                              [100%]
+test_pipeline.py ..                                                      [100%]
 
-============================== 2 passed in 0.01s ==============================
+============================== 2 passed in 2.39s ==============================
